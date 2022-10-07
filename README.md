@@ -2,7 +2,7 @@
 This Project is to make an Automated Teller Machine with user's Account Number,Password,and bank account.Using this data,users can withdraw, deposit, and view their account balance, Deposit, Withdraw and transfer money between account in both Current and Savinngs Account.
 
 To run the project
-1.Download all the code files (total 3)
+1.Download all the code files in src folder (total 3)
 2.Store them in a single folder
 3.Either use your Java IDE e.g. Eclipse ,InteliJ or NetBeans
 4.Or in Windows open command prompt and go to project Directory
